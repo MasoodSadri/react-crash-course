@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background: #424242;
+  color: #ffffff;
+}
+
+.container {
+  width: 80%;
+  padding: 0 1rem;
+  margin: 0 auto;
+}
